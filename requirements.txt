@@ -1,0 +1,18 @@
+                                                     Mock-Up for this Project
+   
+   
+    Clear and prominent heading: Use a clear and prominent heading that says "Contact Us" or "Get in Touch" to make it clear what the page is for.
+   
+    Contact form: Provide a simple contact form that includes fields for the user's name, email address, and message. Keep the form short and easy to fill out, and include a confirmation message after the user submits the form.
+    
+    Contact information: Provide clear and visible contact information such as a phone number, email address, and physical address. This helps establish trust and makes it easy for users to contact you.
+    
+    Social media links: If you have a presence on social media, include links to your profiles on popular platforms such as Facebook, Twitter, and LinkedIn.
+    
+    Map: If you have a physical location, consider including a map or directions to your office.
+    
+    FAQ section: If you receive a lot of similar questions or inquiries, consider including a FAQ section on the page to answer these questions and reduce the volume of inquiries.
+    
+    Call-to-action: End the page with a clear call-to-action, such as "Get in touch today" or "Contact us now" to encourage users to take action.
+    
+    Remember to keep the design simple, clean and visually appealing. Don't clutter the page with too much information or distractions, and make sure it's easy to navigate and use.		
